@@ -1,0 +1,92 @@
+
+Cross Validation 10-fold Results
+======
+
+Correctly Classified Instances          21               47.7273 %
+Incorrectly Classified Instances        23               52.2727 %
+Kappa statistic                          0.1832
+Mean absolute error                      0.2474
+Root mean squared error                  0.4607
+Relative absolute error                 69.9098 %
+Root relative squared error            109.4573 %
+Coverage of cases (0.95 level)          68.1818 %
+Mean rel. region size (0.95 level)      35.7955 %
+Total Number of Instances               44     
+
+Confusion Matrix:
+14.0 0.0 3.0 0.0 
+3.0 0.0 6.0 0.0 
+7.0 0.0 7.0 0.0 
+3.0 0.0 1.0 0.0 
+Percision = 33.1352743117449%
+Recall = 47.72727272727273%
+F measure = 39.11467872033667%
+
+Test Results
+======
+
+Correctly Classified Instances          29               67.4419 %
+Incorrectly Classified Instances        14               32.5581 %
+Kappa statistic                          0.4941
+Mean absolute error                      0.1805
+Root mean squared error                  0.3802
+Relative absolute error                 51.6304 %
+Root relative squared error             91.2335 %
+Coverage of cases (0.95 level)          74.4186 %
+Mean rel. region size (0.95 level)      34.8837 %
+Total Number of Instances               43     
+
+Confusion Matrix:
+16.0 0.0 1.0 0.0 
+2.0 3.0 3.0 0.0 
+4.0 0.0 10.0 0.0 
+3.0 0.0 1.0 0.0 
+Percision = 65.6124031007752%
+Recall = 67.44186046511628%
+F measure = 66.51455453003311%
+
+Cross Validation 10-fold Results
+======
+
+Correctly Classified Instances          48               77.4194 %
+Incorrectly Classified Instances        14               22.5806 %
+Kappa statistic                          0.6729
+Mean absolute error                      0.1315
+Root mean squared error                  0.3315
+Relative absolute error                 37.3334 %
+Root relative squared error             79.0272 %
+Coverage of cases (0.95 level)          79.0323 %
+Mean rel. region size (0.95 level)      31.4516 %
+Total Number of Instances               62     
+
+Confusion Matrix:
+14.0 0.0 3.0 0.0 
+1.0 19.0 3.0 0.0 
+3.0 0.0 15.0 0.0 
+3.0 0.0 1.0 0.0 
+Percision = 75.17106549364613%
+Recall = 77.41935483870968%
+F measure = 76.27864685582028%
+
+Test Results
+======
+
+Correctly Classified Instances          28               65.1163 %
+Incorrectly Classified Instances        15               34.8837 %
+Kappa statistic                          0.4634
+Mean absolute error                      0.1736
+Root mean squared error                  0.392 
+Relative absolute error                 49.6563 %
+Root relative squared error             94.0421 %
+Coverage of cases (0.95 level)          74.4186 %
+Mean rel. region size (0.95 level)      31.9767 %
+Total Number of Instances               43     
+
+Confusion Matrix:
+16.0 1.0 0.0 0.0 
+2.0 4.0 2.0 0.0 
+6.0 0.0 8.0 0.0 
+3.0 1.0 0.0 0.0 
+Percision = 61.8776916451335%
+Recall = 65.11627906976744%
+F measure = 63.455690292621995%

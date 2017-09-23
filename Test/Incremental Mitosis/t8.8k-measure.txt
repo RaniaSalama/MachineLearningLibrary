@@ -1,0 +1,4 @@
+Fmeasure = 0.99875
+Jaccard = 0.995306
+Rand = 0.693632
+Rand Index = 0.997167
